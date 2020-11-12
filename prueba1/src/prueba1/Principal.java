@@ -5,12 +5,9 @@ public class Principal
 
     public static void main(String[] args)
     {
-        System.out.println("klk manin");
-        System.out.println("significa killer latin king manin");
-        System.out.println("manin esta jodido");
-
-
-
+        System.out.println("Hola mundo java-git");
+        System.out.println("Hola mundo java-git");
+        System.out.println("Pruebas Git. Se añade Cambio1");
     }
 
 }
